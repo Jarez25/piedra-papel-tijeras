@@ -20,7 +20,7 @@ class gente:
     def __init__(self, nombre, apellido):
         self.total = f'{nombre} {apellido}'
         
-    def walk (self):
+    def walk (self):    
         print(f'{self.total} esta cantando')
         
 gen = gente('jose', 'medina')

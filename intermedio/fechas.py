@@ -7,6 +7,8 @@ print(datetime.hour)
 
 now = datetime.now()
 
+now = now.sleep()
+
 print(now.day)
 print(now.hour)
 print(now.minute)

@@ -13,3 +13,5 @@ my_dicc = {"nombre":"jairo",
            "edad":26,
            "ciudad":"managua",
            "lenguaje":"python"}
+
+print(my_dicc)
